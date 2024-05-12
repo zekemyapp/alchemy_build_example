@@ -1,0 +1,9 @@
+[submodule "build/alchemy"]
+	path = build/alchemy
+	url = https://github.com/Parrot-Developers/alchemy.git
+[submodule "dragon_build"]
+	path = dragon_build
+	url = https://github.com/Parrot-Developers/dragon_build.git
+[submodule "build/dragon_build"]
+	path = build/dragon_build
+	url = https://github.com/Parrot-Developers/dragon_build.git
